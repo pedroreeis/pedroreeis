@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroreeis&label=Profile%20views&color=0eb611&style=flat" alt="pedroreeis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroreeis" alt="pedroreeis" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pedroreeis&theme=onedark" alt="pedroreeis" /> </p>
 
 - 🔭 I’m currently working on [FlameRP](https://discord.gg/kRdsnCHD)
 
