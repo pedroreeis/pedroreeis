@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pedroreeis&theme=dracula" alt="pedroreeis" /> </p>
 
-- 🔭 I’m currently working on [FlameRP](https://discord.gg/kRdsnCHD)
+- 🔭 I’m currently working on [FlameRP](https://github.com/flameroleplay)
 
 - 🌱 I’m currently learning **C# and Kotlin**
 
